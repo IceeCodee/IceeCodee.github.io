@@ -3141,6 +3141,10 @@ input, select, textarea {
 			}
 
 		/* Image */
+			.image.resize{
+				max-width: 100%;
+				max-height: none;
+			}
 
 			.image.left {
 				margin: 0 1.5em 1em 0;

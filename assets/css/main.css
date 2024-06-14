@@ -239,6 +239,9 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
+	.contact-icons{
+		list-style-type: none;
+	}
 
 /* Row */
 
